@@ -2,7 +2,7 @@
 
 A React powered Progressive Web App for the CnCNet Ladder, utilising existing/new API's from the [CnCNet API (https://github.com/CnCNet/cncnet-ladder-api).
 
-The project is aimed at delivering a React powered web app for the frontend, replacing the live one using Laravel views & PHP (https://ladder.cncnet.org).
+The project is aimed at delivering a React powered web app for the frontend, replacing the live one that's currently using PHP & Laravel views (https://ladder.cncnet.org).
 
 ## Getting Started
 
